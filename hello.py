@@ -1,0 +1,5 @@
+# Michael Delgado
+# 12/7/2025
+# A simple Python program to print a message
+
+print("Hello, World!")
